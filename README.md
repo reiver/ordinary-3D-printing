@@ -11,7 +11,7 @@ NOTE that some of this stuff needs to be **food safe**!, and some of this needs 
 Some of the stuff might also be made up of multiple parts 3D printed in different materials.
 
 
-## Footware
+## Footwear
 
 * running shoes
 * sandals
@@ -30,6 +30,10 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * baby sealable containers
 * baby spoons
 
+## Footwear (Childrearing)
+
+* toddler shoes
+
 ### Toys (Childrearing)
 
 * action figures
@@ -39,7 +43,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * rattles
 * water guns
 
-## Eyeware
+## Eyewear
 
 * sunglasses
 
