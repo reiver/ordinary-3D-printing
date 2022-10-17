@@ -30,7 +30,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * baby sealable containers
 * baby spoons
 
-## Footwear (Childrearing)
+### Footwear (Childrearing)
 
 * toddler shoes
 
