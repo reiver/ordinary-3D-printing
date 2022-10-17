@@ -40,6 +40,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * chef's knives
 * cleavers
 * fillet knives
+* pairing knives
 * santoku knives
 * utilty knives
 
