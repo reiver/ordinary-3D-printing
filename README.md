@@ -57,6 +57,8 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 ## Homeware
 
 * picture frames
+* laundry baskets
+* laundry hampers
 
 ## Kitchenware
 
