@@ -29,9 +29,11 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 ### Toys (Childrearing)
 
 * action figures
-* balls
 * basketball hoop for toddlers
+* flying discs
+* inflatable balls
 * rattles
+* water guns
 
 ## Eyeware
 
