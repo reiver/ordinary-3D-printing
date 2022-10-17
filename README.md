@@ -20,6 +20,8 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 * baby bottles
 * baby bottle tongs
+* baby bowls
+* baby spoons
 * car sun shades
 * pacifiers
 * teethers
@@ -28,6 +30,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 * action figures
 * balls
+* basketball hoop for toddlers
 * rattles
 
 ## Eyeware
