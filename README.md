@@ -47,6 +47,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 * dish racks
 * measuring cups
+* sealable containers
 * vegetable scrapers
 
 ### Knives (Kitchenware)
