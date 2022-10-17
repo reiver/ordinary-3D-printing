@@ -34,12 +34,12 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 # Tableware
 
 * chopsticks
-* drinking cup
+* drinking cups
 * drinking staws
 * ice cream scoops
 * nut crackers 
-* rice bowl
-* soup bowl
+* rice bowls
+* soup bowls
 * table forks
 * table knifes
 * table spoons
