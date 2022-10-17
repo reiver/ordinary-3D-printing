@@ -18,13 +18,17 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 ## Childrearing
 
-* baby bottles
-* baby bottle tongs
-* baby bowls
-* baby spoons
 * car sun shades
 * pacifiers
 * teethers
+
+### Feeding (Childrearing)
+
+* baby bottles
+* baby bottle tongs
+* baby bowls
+* baby sealable containers
+* baby spoons
 
 ### Toys (Childrearing)
 
