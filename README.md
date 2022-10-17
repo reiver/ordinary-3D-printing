@@ -28,10 +28,20 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 ## Kitchenware
 
-* cutting knifes
 * dish racks
 * measuring cups
 * vegetable scrapers
+
+### Kitchware :: Knives
+
+* boning knives
+* bread knives
+* carving knives
+* chef's knives
+* cleavers
+* fillet knives
+* santoku knives
+* utilty knives
 
 ## Tableware
 
@@ -42,6 +52,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * nut crackers 
 * rice bowls
 * soup bowls
+* steak knives
 * table forks
 * table knifes
 * table spoons
