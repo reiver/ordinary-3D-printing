@@ -28,8 +28,10 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 ## Kitchenware
 
-* dish rackss
+* cutting knifes
+* dish racks
 * measuring cups
+* vegetable scrapers
 
 # Tableware
 
