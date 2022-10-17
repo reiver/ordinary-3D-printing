@@ -20,6 +20,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 * car sun shades
 * pacifiers
+* pacifier cases
 * teethers
 
 ### Feeding (Childrearing)
