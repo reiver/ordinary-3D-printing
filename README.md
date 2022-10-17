@@ -49,6 +49,10 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 * sunglasses
 
+## Gardening
+
+* planters
+
 ## Homeware
 
 * picture frames
