@@ -41,6 +41,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * flying discs
 * inflatable balls
 * rattles
+* toy vehicles at 1:64 scale
 * water guns
 
 ## Eyewear
