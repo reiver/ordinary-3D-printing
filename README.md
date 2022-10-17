@@ -28,11 +28,13 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 ## Kitchenware
 
-* chopsticks
-* dish racks
-* drinking cups
+* dish rackss
 * measuring cups
+
+# Tableware
+
+* chopsticks
+* drinking cup
 * table forks
 * table knifes
 * table spoons
-
