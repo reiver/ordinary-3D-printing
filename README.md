@@ -67,5 +67,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * steak knives
 * table forks
 * table knifes
+* table bowls
+* table plates
 * table spoons
 * tongs
