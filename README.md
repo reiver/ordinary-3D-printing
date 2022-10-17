@@ -32,7 +32,7 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 * measuring cups
 * vegetable scrapers
 
-### Kitchware :: Knives
+### Knives (Kitchenware)
 
 * boning knives
 * bread knives
