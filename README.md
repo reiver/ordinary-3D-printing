@@ -15,6 +15,13 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 
 * running shoes
 
+## Childrearing
+
+* baby bottles
+* baby bottle tongs
+* pacifiers
+* teethers
+
 ## Eyeware
 
 * sunglasses
@@ -22,10 +29,10 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 ## Kitchenware
 
 * chopsticks
-* dish rack
-* drinking cup
+* dish racks
+* drinking cups
 * measuring cups
-* table fork
-* table knife
-* table spoon
+* table forks
+* table knifes
+* table spoons
 
