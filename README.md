@@ -50,7 +50,10 @@ Some of the stuff might also be made up of multiple parts 3D printed in differen
 ## Kitchenware
 
 * dish racks
+* flipper spatulas
 * measuring cups
+* scraper spatulas
+* spreader spatulas
 * sealable containers
 * vegetable scrapers
 
